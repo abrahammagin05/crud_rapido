@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- 🎯 GIF principal del proyecto aquí -->
-![gif-principal](PEGA_AQUI_URL_DE_UN_GIF_DE_LARAVEL_O_CRUD)
+
+![gif-principal](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVpanhhbnBpZGJieTF4M2Y4bDFnaXc4NmNsYXcwdWVmNWx6N3J3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif)
 
 ![Laravel](https://img.shields.io/badge/Laravel-v13.6-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -114,8 +114,8 @@ crud_rapido/
 
 ## ⚙️ Secuencia de Comandos Utilizados
 
-<!-- 🎮 GIF de terminal/coding aquí -->
-![gif-terminal](PEGA_AQUI_URL_DE_UN_GIF_DE_TERMINAL_O_CODING)
+
+![gif-terminal](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5yaHYzeTl5NjRvY3d5OXdsYTRpbHd6ZXEydjJuM3oydHd4cmtpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13rQ7rrTrvZXlm/giphy.gif)
 
 ### 1️⃣ Crear el Proyecto
 ```bash
@@ -263,8 +263,9 @@ php artisan migrate:status
 
 ### ✅ Lista de Productos (Index)
 
-<!-- 🖼️ PEGA AQUÍ EL SCREENSHOT DE LA LISTA DE PRODUCTOS -->
-![screenshot-index](PEGA_AQUI_URL_O_RUTA_DEL_SCREENSHOT_INDEX)
+
+![screenshot-index](<img width="1911" height="461" alt="image" src="https://github.com/user-attachments/assets/1481dfdc-701e-4151-a2a3-3961911d8785" />
+)
 
 > 📌 *Acceder en:* `http://127.0.0.1:8000/products`
 
@@ -272,8 +273,9 @@ php artisan migrate:status
 
 ### ✅ Crear Producto (Create)
 
-<!-- 🖼️ PEGA AQUÍ EL SCREENSHOT DEL FORMULARIO DE CREAR -->
-![screenshot-create](PEGA_AQUI_URL_O_RUTA_DEL_SCREENSHOT_CREATE)
+
+![screenshot-create](<img width="1899" height="517" alt="image" src="https://github.com/user-attachments/assets/520d49e7-fa45-4e90-a299-4577a75dd816" />
+)
 
 > 📌 *Acceder en:* `http://127.0.0.1:8000/products/create`
 
@@ -281,12 +283,14 @@ php artisan migrate:status
 
 ### ✅ Editar Producto (Edit)
 
-<!-- 🖼️ PEGA AQUÍ EL SCREENSHOT DEL FORMULARIO DE EDITAR -->
-![screenshot-edit](PEGA_AQUI_URL_O_RUTA_DEL_SCREENSHOT_EDIT)
+
+![screenshot-edit](<img width="1905" height="519" alt="image" src="https://github.com/user-attachments/assets/24ac14dc-d2a5-435a-bb30-a24da3849fc8" />
+)
 
 ---
 
 ### ✅ Servidor corriendo
+![screenshot-server](<img width="712" height="258" alt="image" src="https://github.com/user-attachments/assets/e2bd6694-0938-414c-8065-291ff05facfb" />)
 
 ```
 INFO  Server running on [http://127.0.0.1:8000].
@@ -297,8 +301,8 @@ Press Ctrl+C to stop the server
 
 ## ⚠️ Dificultades y Soluciones
 
-<!-- 🎮 GIF de error/bug gracioso aquí -->
-![gif-bugs](PEGA_AQUI_URL_DE_UN_GIF_DE_BUG_O_ERROR_GRACIOSO)
+
+![gif-bugs](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVpanhhbnBpZGJieTF4M2Y4bDFnaXc4NmNsYXcwdWVmNWx6N3J3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CiZ9e5IUPqeVFzc8Mp/giphy.gif)
 
 ### ❓ Dificultad 1 — Error de Longitud de Cadena en MySQL
 
@@ -424,8 +428,8 @@ npm run build
 
 ## 👨‍💻 Desarrollado por
 
-<!-- 🎉 GIF de celebración para el footer -->
-![gif-footer](PEGA_AQUI_URL_DE_UN_GIF_CHIDO_PARA_EL_FOOTER)
+<
+![gif-footer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVpanhhbnBpZGJieTF4M2Y4bDFnaXc4NmNsYXcwdWVmNWx6N3J3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/naiatn5LxTOsU/giphy.gif)
 
 **Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:**
 
