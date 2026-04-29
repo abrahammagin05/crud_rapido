@@ -264,8 +264,8 @@ php artisan migrate:status
 ### ✅ Lista de Productos (Index)
 
 
-![screenshot-index](<img width="1911" height="461" alt="image" src="https://github.com/user-attachments/assets/1481dfdc-701e-4151-a2a3-3961911d8785" />
-)
+<img width="1911" height="461" alt="image" src="https://github.com/user-attachments/assets/1481dfdc-701e-4151-a2a3-3961911d8785" />
+
 
 > 📌 *Acceder en:* `http://127.0.0.1:8000/products`
 
@@ -274,8 +274,8 @@ php artisan migrate:status
 ### ✅ Crear Producto (Create)
 
 
-![screenshot-create](<img width="1899" height="517" alt="image" src="https://github.com/user-attachments/assets/520d49e7-fa45-4e90-a299-4577a75dd816" />
-)
+<img width="1899" height="517" alt="image" src="https://github.com/user-attachments/assets/520d49e7-fa45-4e90-a299-4577a75dd816" />
+
 
 > 📌 *Acceder en:* `http://127.0.0.1:8000/products/create`
 
@@ -284,13 +284,13 @@ php artisan migrate:status
 ### ✅ Editar Producto (Edit)
 
 
-![screenshot-edit](<img width="1905" height="519" alt="image" src="https://github.com/user-attachments/assets/24ac14dc-d2a5-435a-bb30-a24da3849fc8" />
-)
+<img width="1905" height="519" alt="image" src="https://github.com/user-attachments/assets/24ac14dc-d2a5-435a-bb30-a24da3849fc8" />
+
 
 ---
 
 ### ✅ Servidor corriendo
-![screenshot-server](<img width="712" height="258" alt="image" src="https://github.com/user-attachments/assets/e2bd6694-0938-414c-8065-291ff05facfb" />)
+<img width="712" height="258" alt="image" src="https://github.com/user-attachments/assets/e2bd6694-0938-414c-8065-291ff05facfb" />
 
 ```
 INFO  Server running on [http://127.0.0.1:8000].
